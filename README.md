@@ -70,7 +70,6 @@ Reduced environmental harm
 Increased adoption due to language + voice-first approach
 
 ## Technical Approach
-Technical Approach (Unique)
 
 To bridge this gap, we propose a “Data-to-Decision Translation Layer” designed specifically for smallholder farmers:
 
